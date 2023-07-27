@@ -55,8 +55,6 @@ The application provides easy-to-use views for the following:
 
 ![Screenshot (910)](https://github.com/siva3010/Library-management-system-project/assets/109328049/7ce7042f-b698-4465-a295-29f64c494c56)
 
-
-
 # Transaction Page
 Add new Transaction to record the transfer of Book between Users.
 Edit existing movement details if necessary.
@@ -65,18 +63,13 @@ View the list of Book movements with relevant information.
 ![Screenshot (911)](https://github.com/siva3010/Library-management-system-project/assets/109328049/6a42d5e1-6d67-4ae2-aa9a-b589ac3eaf2c)
 
 # Report 📊
-The application generates a comprehensive report that displays the balance quantity of each Book in each Members. The report is presented in a grid view with the following columns:
-**Book:** Name or identifier of the Book.
+The application generates a comprehensive report that displays the balance quantity of each Book in each Members. The report is presented in a grid view with the following columns.
+**Report**Find the book details and high paying books
 
 ![Screenshot (908)](https://github.com/siva3010/Library-management-system-project/assets/109328049/0db03754-4ec9-47aa-baac-07f127b72f94)
 
 
 # Search Book Page
+Tha application search Books Using Book Title and Auther.
+
 ![Screenshot (912)](https://github.com/siva3010/Library-management-system-project/assets/109328049/f4537a3d-2cda-44d5-ac15-c27f5cb7449a)
-
-# Add New Member page
-![Screenshot (913)](https://github.com/siva3010/Library-management-system-project/assets/109328049/65c29086-007e-4d36-8bd9-5103d44922bd)
-
-# Add New Book Page
-![Screenshot (914)](https://github.com/siva3010/Library-management-system-project/assets/109328049/ddd0f4cf-4b88-463d-bc9b-4a18e9f6e347)
-
