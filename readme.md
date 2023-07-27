@@ -48,4 +48,3 @@ Add New Member page
 
 ![Screenshot (914)](https://github.com/siva3010/Library-management-system-project/assets/109328049/ddd0f4cf-4b88-463d-bc9b-4a18e9f6e347)
 
-![Screenshot (915)](https://github.com/siva3010/Library-management-system-project/assets/109328049/6ca67186-8d92-4524-8ca8-c59ea87403c2)
