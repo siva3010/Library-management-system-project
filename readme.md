@@ -41,7 +41,7 @@ The application covers the following key functionalities:
 
 ![Screenshot (908)](https://github.com/siva3010/Library-management-system-project/assets/109328049/0db03754-4ec9-47aa-baac-07f127b72f94)
 
-# Views 👀
+# Book Views 👀
 The application provides easy-to-use views for the following:
 
 **1.Add new Books.**
