@@ -1,0 +1,16 @@
+{% extends 'layout.html' %}
+{% block body %}
+<br>
+<h1 style="color: aqua;">Edit Member</h1>
+{% from "includes/_formhelpers.html" import render_field %}
+<form method="POST" action="" style="color: aqua;">
+    <div class="form-group">
+        {{render_field(form.name, class_="form-control", value=member.name)}}
+    </div><br>
+    <div class="form-group">
+        {{render_field(form.email, class_="form-control", value=member.email)}}
+    </div>
+    <br>
+    <p><button type="submit" class="btn btn-primary" value="Submit" style="color: aliceblue;">Submit</button></p>
+</form>
+{% endblock %}

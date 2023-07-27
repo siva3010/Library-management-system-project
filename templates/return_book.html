@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+{% block body %}
+<br>
+<h2 style="color: aqua;"><b>Return Book</b></h2>
+<h5 style="color: aqua;">Per Day Fee = {{transaction['per_day_fee']}}</h5>
+<h5 style="color: aqua;">Borrowed On = {{transaction['borrowed_on']}}</h5>
+<h5 style="color: aqua;">Rented for = {{difference}} days</h5>
+<h5 style="color: aqua;">Amount Due = <b>{{total_charge}}</b></h5>
+<hr>
+<br>
+{% from "includes/_formhelpers.html" import render_field %}
+<form method="POST" action="" style="color: aqua;">
+    <div class="form-group">
+        {{render_field(form.amount_paid, class_="form-control")}}
+    </div>
+    <br>
+    <p><button type="submit" class="btn btn-primary" value="Submit" style="color: aliceblue;">Submit</button></p>
+</form>
+{% endblock %}
