@@ -46,5 +46,6 @@ Search Book Page
 Add New Member page
 ![Screenshot (913)](https://github.com/siva3010/Library-management-system-project/assets/109328049/65c29086-007e-4d36-8bd9-5103d44922bd)
 
+Add New Book Page
 ![Screenshot (914)](https://github.com/siva3010/Library-management-system-project/assets/109328049/ddd0f4cf-4b88-463d-bc9b-4a18e9f6e347)
 
