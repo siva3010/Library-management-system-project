@@ -5,23 +5,6 @@
 A Library Management Web Application built for the Flask hiring test of AereleTech.It Allows a librarian to track books and their quantity, members, and transactions.
 (Built with Flask, MySQL)
 
-## **Getting Started**
-
-1. Install requirements
-   ```sh
-   pip install -r requirements.txt
-   ```
-2. Setup MySQL and replace host, user, password values in `setupDB.py`, `app.py` and `test.py` as required </br></br>
-3. Create Database and Tables using `setupDB.py`
-   ```sh
-    cd utils
-    python setupDB.py
-    cd ..
-   ```
-4. Run app
-   ```sh
-   python app.py
-   ```
 # Functionality 🛠️
 The application covers the following key functionalities:
 
@@ -80,3 +63,31 @@ The application generates a comprehensive report that displays the balance quant
 Tha application search Books Using Book Title and Auther.
 
 ![Screenshot (912)](https://github.com/siva3010/Library-management-system-project/assets/109328049/f4537a3d-2cda-44d5-ac15-c27f5cb7449a)
+
+## **Getting Started**
+
+1. Install requirements
+   ```sh
+   pip install -r requirements.txt
+   ```
+2. Setup MySQL and replace host, user, password values in `setupDB.py`, `app.py` and `test.py` as required </br></br>
+3. Create Database and Tables using `setupDB.py`
+   ```sh
+    cd utils
+    python setupDB.py
+    cd ..
+   ```
+4. Run app
+   ```sh
+   python app.py
+   ```
+**Note: Ensure you have Python and Flask installed on your system before starting the application.**
+
+*Access the application in your web browser by visiting
+
+# Conclusion 🎯
+Congratulations! You have explored the amazing features of the **Library Management System Web Application**. 🎉  🏬📦🚛
+
+With the ability to add, edit, and view book details, as well as Members, you have complete control over your Library data. 🛍️🏢🚚📝🔄
+
+#### Happy LibMS! 🚀💼📦🏬📊
