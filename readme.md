@@ -86,8 +86,8 @@ Tha application search Books Using Book Title and Auther.
 *Access the application in your web browser by visiting
 
 # Conclusion 🎯
-Congratulations! You have explored the amazing features of the **Library Management System Web Application**. 🎉  🏬📦🚛
+Congratulations! You have explored the amazing features of the **Library Management System Web Application**. 🎉  🏬🚛
 
 With the ability to add, edit, and view book details, as well as Members, you have complete control over your Library data. 🛍️🏢🚚📝🔄
 
-#### Happy LibMS! 🚀💼📦🏬📊
+#### Happy LibMS! 🚀💼🏬📊
