@@ -36,6 +36,7 @@ Index Page
 
 # Views 👀
 The application provides easy-to-use views for the following:
+
 **1.Add new Books.**
 
 **2.Edit existing Book details.**
@@ -68,12 +69,12 @@ The application generates a comprehensive report that displays the balance quant
 ![Screenshot (908)](https://github.com/siva3010/Library-management-system-project/assets/109328049/0db03754-4ec9-47aa-baac-07f127b72f94)
 
 
-Search Book Page
+# Search Book Page
 ![Screenshot (912)](https://github.com/siva3010/Library-management-system-project/assets/109328049/f4537a3d-2cda-44d5-ac15-c27f5cb7449a)
 
-Add New Member page
+# Add New Member page
 ![Screenshot (913)](https://github.com/siva3010/Library-management-system-project/assets/109328049/65c29086-007e-4d36-8bd9-5103d44922bd)
 
-Add New Book Page
+# Add New Book Page
 ![Screenshot (914)](https://github.com/siva3010/Library-management-system-project/assets/109328049/ddd0f4cf-4b88-463d-bc9b-4a18e9f6e347)
 
