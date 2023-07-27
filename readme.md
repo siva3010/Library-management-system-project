@@ -25,14 +25,14 @@ A Library Management Web Application built for the Flask hiring test of AereleTe
 # Functionality 🛠️
 The application covers the following key functionalities:
 
-#Index Page
-**Reports**
+# Index Page
+**1.Reports**
 
-**Books**
+**2,Books**
 
-**Members**
+**3.Members**
 
-**Transaction**
+**4.Transaction**
 
 ![Screenshot (907)](https://github.com/siva3010/Library-management-system-project/assets/109328049/62b1db02-3f8b-4179-8e08-fad71084a1e8)
 
