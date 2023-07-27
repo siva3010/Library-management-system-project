@@ -40,8 +40,10 @@ Member page
 Transaction Page
 ![Screenshot (911)](https://github.com/siva3010/Library-management-system-project/assets/109328049/6a42d5e1-6d67-4ae2-aa9a-b589ac3eaf2c)
 
+Search Book Page
 ![Screenshot (912)](https://github.com/siva3010/Library-management-system-project/assets/109328049/f4537a3d-2cda-44d5-ac15-c27f5cb7449a)
 
+Add New Member page
 ![Screenshot (913)](https://github.com/siva3010/Library-management-system-project/assets/109328049/65c29086-007e-4d36-8bd9-5103d44922bd)
 
 ![Screenshot (914)](https://github.com/siva3010/Library-management-system-project/assets/109328049/ddd0f4cf-4b88-463d-bc9b-4a18e9f6e347)
