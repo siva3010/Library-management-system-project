@@ -54,7 +54,7 @@ View the list of Book movements with relevant information.
 
 # Report 📊
 The application generates a comprehensive report that displays the balance quantity of each Book in each Members. The report is presented in a grid view with the following columns.
-**Report**Find the book details and high paying books
+**Report** Find the book details and high paying books
 
 ![Screenshot (908)](https://github.com/siva3010/Library-management-system-project/assets/109328049/0db03754-4ec9-47aa-baac-07f127b72f94)
 
