@@ -2,8 +2,8 @@
 
 ## **About**
 
-A Library Management Web Application built in fulfilment of the [Developer Hiring Test]. Allows a librarian to track books and their quantity, members, and transactions.
-(Built with Flask, Jinja, MySQL)
+A Library Management Web Application built for the Flask hiring test of AereleTech.It Allows a librarian to track books and their quantity, members, and transactions.
+(Built with Flask, MySQL)
 
 ## **Getting Started**
 
