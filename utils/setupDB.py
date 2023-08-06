@@ -12,8 +12,8 @@ def executeScriptsFromFile(filename):
     sqlCommands = sqlFile.split(';')
     mydb = mysql.connector.connect(
         host="localhost",
-        user="siva",  # change as required
-        passwd="siva",  # change as required
+        user="root",  # change as required
+        passwd="root",  # change as required
     )
     c = mydb.cursor()
 
